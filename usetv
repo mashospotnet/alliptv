@@ -1,0 +1,66 @@
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/BeIN_Sport_1_HD.jpg" group-title="SPORTS", (ONLINE) (ID) beIN SPORTS 1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sport_2_HD_logo.jpg" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 2
+http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 3
+http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sports.jpg" group-title="SPORTS", (ONLINE) (ID) Fox sport1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/116.ts
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sports-21.jpg" group-title="SPORTS", (ONLINE) (ID) Fox sport2
+http://157.119.56.249:2019/live/gratis/diemdiemaja/115.ts
+
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sport-3-sd.jpg" group-title="SPORTS", (ONLINE) (ID) Fox sport3
+http://157.119.56.249:2019/live/gratis/diemdiemaja/114.ts
+
+#EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", (ONLINE) SENTANA SPORT+
+http://ott-cdn.ucom.am/s82/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", (ONLINE) SENTANA SPORT
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", (ONLINE) ELEVEN SPORT
+http://cdn7.woideas.com/tv11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/BeIN_Sport_1_HD.jpg" group-title="SPORTS", (ONLINE) (ID) beIN SPORTS 1
+http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sport_2_HD_logo.jpg" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 2
+http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORTS", (ONLINE) (ID) beINSPORTS 3
+http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS SELECT 1 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23927
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS SELECT 2 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23926
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 1 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23931
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 2 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23929
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 3
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23928
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) STAR SPORTS 1 HINDI HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23930
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY ESPN HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23933
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY SIX HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23932
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY TEN 1 HD
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23924
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="SPORTS", (DOUBTFUL) SONY T
