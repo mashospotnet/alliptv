@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://dojo-box.com/wp-content/uploads/2015/09/logo-aditv.png" group-title="INDONESIA",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EtJenC.jpg" group-title="INDONESIA",Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" group-title="INDONESIA",BBSTV Surabaya
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="INDONESIA",BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="INDONESIA",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="INDONESIA",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png?w=250&h=100&crop=1" group-title="INDONESIA",InsanTV
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" group-title="INDONESIA",Jakarta Globe (English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jawapos.tv/assets/img/list/pandeglang&tangerang.jpg" group-title="INDONESIA",Jawa Pos TV
+rtmp://122.248.32.234:1935/ch6/myStream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="INDONESIA",K Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" group-title="INDONESIA",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INDONESIA",Nick Jr.
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="INDONESIA",Okey TV
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/RTM_TVi.jpg" group-title="INDONESIA",RTM TVi
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9a/a3/cc/9aa3cca889c266b1cd750a452d982a9e.jpg" group-title="INDONESIA",Saling Sapa TV
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7kAO7Y.jpg" group-title="INDONESIA",Star Bridge TV
+http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MALAYSIA",Thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="INDONESIA",TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="INDONESIA",TVRI (Opt-1)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="INDONESIA",TVRI (Opt-2)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="INDONESIA",TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="INDONESIA",TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTM3U https://hdbox.ws/de/news/43-ip-tv-kanaly.html
+#EXTINF:-1,CA: A&E
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2648.ts
+#EXTINF:-1,CA: ABC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2649.ts
+#EXTINF:-1,CA: ABC SPARK
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2650.ts
+#EXTINF:-1,CA: AMC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2651.ts
+#EXTINF:-1,CA: BEIN SPORTS
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2652.ts
+#EXTINF:-1,CA: BEIN SPORTS SPANISH
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2653.ts
+#EXTINF:-1,CA: BNN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2654.ts
+#EXTINF:-1,CA: BRAVO
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2656.ts
+#EXTINF:-1,CA: BTV
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2655.ts
+#EXTINF:-1,CA: CBC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2657.ts
+#EXTINF:-1,CA: CBC CALGARY
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2658.ts
+#EXTINF:-1,CA: CBC CHARLOTTETOWN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2659.ts
+#EXTINF:-1,CA: CBC EDMONTON
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2660.ts
+#EXTINF:-1,CA: CBC FREDERICTON
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2661.ts
+#EXTINF:-1,CA: CBC HALIFAX
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2662.ts
+#EXTINF:-1,CA: CBC MONTREAL
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2761.ts
+#EXTINF:-1,CA: CBC NATIONAL
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2663.ts
+#EXTINF:-1,CA: CBC NEWS
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2672.ts
+#EXTINF:-1,CA: CBC NEWS NETWORK
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2740.ts
+#EXTINF:-1,CA: CBC OTTAWA
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2664.ts
+#EXTINF:-1,CA: CBC REGINA
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2665.ts
+#EXTINF:-1,CA: CBC ST.JOHN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2666.ts
+#EXTINF:-1,CA: CBC TORONTO
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2667.ts
+#EXTINF:-1,CA: CBC VANCOUVER
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2668.ts
+#EXTINF:-1,CA: CBC WINDSOR
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2669.ts
+#EXTINF:-1,CA: CBC WINNIPEG
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2670.ts
+#EXTINF:-1,CA: CBC YELLOWKNIFE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2671.ts
+#EXTINF:-1,CA: CBS
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2673.ts
+#EXTINF:-1,CA: CHCH
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2674.ts
+#EXTINF:-1,CA: CITY TV
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2675.ts
+#EXTINF:-1,CA: CNN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2676.ts
+#EXTINF:-1,CA: COMEDY
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2677.ts
+#EXTINF:-1,CA: CP24
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2678.ts
+#EXTINF:-1,CA: CPAC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2679.ts
+#EXTINF:-1,CA: CPAC FRANCAIS
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2741.ts
+#EXTINF:-1,CA: CRAVE 1
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2680.ts
+#EXTINF:-1,CA: CRAVE 2
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2681.ts
+#EXTINF:-1,CA: CRAVE 3
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2682.ts
+#EXTINF:-1,CA: CREATE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2683.ts
+#EXTINF:-1,CA: CTV
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2685.ts
+#EXTINF:-1,CA: CTV ATLANTIC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2684.ts
+#EXTINF:-1,CA: CTV NEWS
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2686.ts
+#EXTINF:-1,CA: CTV NEWS LIVE 1
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2742.ts
+#EXTINF:-1,CA: CTV NEWS LIVE 2
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2743.ts
+#EXTINF:-1,CA: CTV NEWS LIVE 3
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2744.ts
+#EXTINF:-1,CA: CTV NEWS LIVE 4
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2745.ts
+#EXTINF:-1,CA: CW
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2687.ts
+#EXTINF:-1,CA: DISNEY
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2688.ts
+#EXTINF:-1,CA: DISNEY JR
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2689.ts
+#EXTINF:-1,CA: DISNEY XD
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2690.ts
+#EXTINF:-1,CA: E!
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2691.ts
+#EXTINF:-1,CA: EMCI MONTREAL
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2747.ts
+#EXTINF:-1,CA: FANTASY SPORTS
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2692.ts
+#EXTINF:-1,CA: FIGHT NETWORK
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2693.ts
+#EXTINF:-1,CA: FOOD NETWORK
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2694.ts
+#EXTINF:-1,CA: FOX
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2695.ts
+#EXTINF:-1,CA: FX
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2696.ts
+#EXTINF:-1,CA: FXX
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2697.ts
+#EXTINF:-1,CA: GLOBAL
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2698.ts
+#EXTINF:-1,CA: GLOBAL CALGARY
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2699.ts
+#EXTINF:-1,CA: GLOBAL EDMONTON
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2748.ts
+#EXTINF:-1,CA: GLOBAL HALIFAX
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2701.ts
+#EXTINF:-1,CA: GLOBAL TORONTO
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2700.ts
+#EXTINF:-1,CA: GSN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2703.ts
+#EXTINF:-1,CA: HARD KNOCKS FIGHTING
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2749.ts
+#EXTINF:-1,CA: HBO
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2705.ts
+#EXTINF:-1,CA: HBO 2
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2704.ts
+#EXTINF:-1,CA: HGTV
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2706.ts
+#EXTINF:-1,CA: HISTORY
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2707.ts
+#EXTINF:-1,CA: HLN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2708.ts
+#EXTINF:-1,CA: ICI TELE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2750.ts
+#EXTINF:-1,CA: LIFETIME
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2709.ts
+#EXTINF:-1,CA: ME TV
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2710.ts
+#EXTINF:-1,CA: MOVIETIME
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2711.ts
+#EXTINF:-1,CA: MSNBC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2712.ts
+#EXTINF:-1,CA: NAT GEO
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2714.ts
+#EXTINF:-1,CA: NAT GEO WILD
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2715.ts
+#EXTINF:-1,CA: NBA TV
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2713.ts
+#EXTINF:-1,CA: NBC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2716.ts
+#EXTINF:-1,CA: OLN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2702.ts
+#EXTINF:-1,CA: OWN
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2717.ts
+#EXTINF:-1,CA: PBS
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2718.ts
+#EXTINF:-1,CA: PEACHTREE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2719.ts
+#EXTINF:-1,CA: SHOWCASE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2720.ts
+#EXTINF:-1,CA: SLICE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2721.ts
+#EXTINF:-1,CA: SPACE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2722.ts
+#EXTINF:-1,CA: SPORTSNET 360
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2723.ts
+#EXTINF:-1,CA: SPORTSNET EAST
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2724.ts
+#EXTINF:-1,CA: SPORTSNET ONE
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2725.ts
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2726.ts
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2727.ts
+#EXTINF:-1,CA: SPORTSNET WEST
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2728.ts
+#EXTINF:-1,CA: SPORTSNET WORLD
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2729.ts
+#EXTINF:-1,CA: TLC
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2730.ts
+#EXTINF:-1,CA: TSN  1
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2731.ts
+#EXTINF:-1,CA: TSN  2
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2732.ts
+#EXTINF:-1,CA: TSN  3
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2733.ts
+#EXTINF:-1,CA: TSN  4
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2734.ts
+#EXTINF:-1,CA: TSN 5
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2735.ts
+#EXTINF:-1,CA: UNIVISION
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2759.ts
+#EXTINF:-1,CA: WEATHER NETWORK
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/2736.ts
+#EXTINF:-1,CA: NTV 
+http://beastiptv.tv:25461/live/Karaduzadem@gmail.com/hE5iI4ec63/5559.ts
+
